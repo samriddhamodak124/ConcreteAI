@@ -1,0 +1,42 @@
+{
+    "Cement (component 1)(kg in a m^3 mixture)": {
+        "min": 102.0,
+        "max": 540.0,
+        "median": 272.9
+    },
+    "Blast Furnace Slag (component 2)(kg in a m^3 mixture)": {
+        "min": 0.0,
+        "max": 359.4,
+        "median": 22.0
+    },
+    "Fly Ash (component 3)(kg in a m^3 mixture)": {
+        "min": 0.0,
+        "max": 200.1,
+        "median": 0.0
+    },
+    "Water  (component 4)(kg in a m^3 mixture)": {
+        "min": 121.75,
+        "max": 247.0,
+        "median": 185.0
+    },
+    "Superplasticizer (component 5)(kg in a m^3 mixture)": {
+        "min": 0.0,
+        "max": 32.2,
+        "median": 6.35
+    },
+    "Coarse Aggregate  (component 6)(kg in a m^3 mixture)": {
+        "min": 801.0,
+        "max": 1145.0,
+        "median": 968.0
+    },
+    "Fine Aggregate (component 7)(kg in a m^3 mixture)": {
+        "min": 594.0,
+        "max": 992.6,
+        "median": 779.51
+    },
+    "Age (day)": {
+        "min": 1.0,
+        "max": 365.0,
+        "median": 28.0
+    }
+}
